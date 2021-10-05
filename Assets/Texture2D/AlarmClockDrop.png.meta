@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: e11be89c6b7b4d844800d7c317ca3718
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AlarmClockDrop
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: PSP2
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AlarmClockDrop
+      rect:
+        serializedVersion: 2
+        x: 0.02675098
+        y: 3.017465
+        width: 127.9733
+        height: 114.9064
+      alignment: 9
+      pivot: {x: 0.4998955, y: 0.5307148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.01337, y: -57.47067}
+        - {x: -64.01337, y: -49.47067}
+        - {x: -64.01337, y: 51.52933}
+        - {x: -61.01337, y: 57.52933}
+        - {x: 63.98663, y: 57.52933}
+        - {x: 63.98663, y: -19.47067}
+        - {x: 52.98662, y: -57.47067}
+      physicsShape:
+      - - {x: 29.98662, y: -41.47067}
+        - {x: 44.98663, y: -57.47067}
+        - {x: 48.98662, y: -56.47067}
+        - {x: 47.98663, y: -49.47067}
+        - {x: 39.98662, y: -29.47067}
+        - {x: 45.98662, y: -25.47067}
+        - {x: 55.98663, y: -0.4706726}
+        - {x: 54.98663, y: 15.52933}
+        - {x: 61.98663, y: 20.52933}
+        - {x: 63.98663, y: 24.52933}
+        - {x: 63.98663, y: 47.52933}
+        - {x: 56.98663, y: 54.52933}
+        - {x: 50.98663, y: 57.52932}
+        - {x: 35.98663, y: 57.52932}
+        - {x: 28.98663, y: 56.52932}
+        - {x: 7.986626, y: 55.52933}
+        - {x: -5.013374, y: 55.52933}
+        - {x: -19.01337, y: 52.52932}
+        - {x: -49.01337, y: 56.52932}
+        - {x: -62.01337, y: 45.52933}
+        - {x: -64.01337, y: 38.52933}
+        - {x: -64.01337, y: 23.52933}
+        - {x: -57.01337, y: 9.529327}
+        - {x: -45.01337, y: 22.52933}
+        - {x: -53.01337, y: 5.529327}
+        - {x: -53.01337, y: -1.470672}
+        - {x: -41.01337, y: -25.47067}
+        - {x: -45.01337, y: -52.47067}
+        - {x: -43.01337, y: -57.47067}
+        - {x: -40.01337, y: -57.47067}
+        - {x: -29.01337, y: -45.47067}
+        - {x: -9.013374, y: -48.47067}
+        - {x: 7.986626, y: -49.47067}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61efcfb0b42323d46869c3ac99771fe8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

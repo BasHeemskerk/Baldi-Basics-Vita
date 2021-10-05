@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 76e88da254a34cb64bb58d7a68bfbb10
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Nod0028
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: PSP2
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nod0028
+      rect:
+        serializedVersion: 2
+        x: 20.02675
+        y: 6.026751
+        width: 83.89713
+        height: 112.8971
+      alignment: 9
+      pivot: {x: 0.5241329, y: 0.5135051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.97532, y: -56.47531}
+        - {x: -41.97532, y: -15.47531}
+        - {x: -41.97532, y: 31.52469}
+        - {x: -18.97532, y: 56.52469}
+        - {x: 20.02468, y: 56.52469}
+        - {x: 42.02468, y: 52.52469}
+        - {x: 42.02468, y: -52.47532}
+        - {x: 31.02468, y: -56.47531}
+      physicsShape:
+      - - {x: 42.02468, y: -4.475311}
+        - {x: 42.02468, y: 16.52469}
+        - {x: 41.02468, y: 27.52469}
+        - {x: 33.02468, y: 38.52469}
+        - {x: 25.02468, y: 47.52468}
+        - {x: 14.02468, y: 56.52469}
+        - {x: -13.97532, y: 56.52469}
+        - {x: -33.97532, y: 40.52469}
+        - {x: -41.97532, y: 19.52469}
+        - {x: -41.97532, y: -1.475311}
+        - {x: -33.97532, y: -19.47531}
+        - {x: -13.97532, y: -41.47531}
+        - {x: -4.975319, y: -56.47531}
+        - {x: 3.024681, y: -56.47531}
+        - {x: 9.024681, y: -52.47531}
+        - {x: 26.02468, y: -31.47531}
+        - {x: 39.02468, y: -10.47531}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bc8f82cafa5a4498a85380be5f8090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

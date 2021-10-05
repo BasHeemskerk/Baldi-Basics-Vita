@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: a57ee48032e8bc994e9204e30eb2dcf7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HeadShake0042
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: PSP2
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeadShake0042
+      rect:
+        serializedVersion: 2
+        x: 16.07612
+        y: 0.0761205
+        width: 94.87257
+        height: 125.8478
+      alignment: 9
+      pivot: {x: 0.5051395, y: 0.5079461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.51241, y: -63}
+        - {x: -47.51241, y: -13}
+        - {x: -47.51241, y: 34}
+        - {x: -37.51241, y: 63}
+        - {x: 47.48759, y: 63}
+        - {x: 47.48759, y: -48}
+        - {x: 10.48759, y: -63}
+      physicsShape:
+      - - {x: 37.48759, y: -28}
+        - {x: 45.48759, y: 5.999996}
+        - {x: 47.48759, y: 20}
+        - {x: 47.48759, y: 42}
+        - {x: 33.48759, y: 53}
+        - {x: 39.48759, y: 58}
+        - {x: 36.48759, y: 63}
+        - {x: 24.48759, y: 62}
+        - {x: 14.48759, y: 63}
+        - {x: -11.51241, y: 63}
+        - {x: -27.51241, y: 57}
+        - {x: -37.51241, y: 45}
+        - {x: -47.51241, y: 27.99999}
+        - {x: -47.51241, y: 2.999996}
+        - {x: -43.51241, y: -9.000003}
+        - {x: -30.51241, y: -26}
+        - {x: -19.5124, y: -38}
+        - {x: -16.51241, y: -52}
+        - {x: -6.512405, y: -63}
+        - {x: 1.487595, y: -63}
+        - {x: 7.487595, y: -59}
+        - {x: 25.48759, y: -31}
+        - {x: 33.48759, y: -31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2aaa905f22bc642a4fc34ba25e0f71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 7f2b74414944e385422980175fee0d3e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Baldi_Wave0063
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: PSP2
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Baldi_Wave0063
+      rect:
+        serializedVersion: 2
+        x: 18.10168
+        y: 2.008848
+        width: 122.8222
+        height: 235.9892
+      alignment: 9
+      pivot: {x: 0.4306902, y: 0.5338852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.51278, y: 66.99654}
+        - {x: -61.51278, y: 98.99654}
+        - {x: -61.51278, y: 117.9965}
+        - {x: 36.48722, y: 117.9965}
+        - {x: 61.48722, y: 71.99654}
+        - {x: 61.48722, y: -91.00346}
+        - {x: 53.48722, y: -118.0035}
+        - {x: 11.48722, y: -118.0035}
+        - {x: 6.487218, y: -116.0035}
+      physicsShape:
+      - - {x: 33.48722, y: -118.0035}
+        - {x: 40.48721, y: -118.0035}
+        - {x: 45.48721, y: -116.0035}
+        - {x: 47.48722, y: -99.00346}
+        - {x: 49.48722, y: -31.00346}
+        - {x: 61.48722, y: -29.00346}
+        - {x: 61.48722, y: 27.99653}
+        - {x: 60.48722, y: 63.99654}
+        - {x: 42.48722, y: 67.99654}
+        - {x: 49.48722, y: 79.99654}
+        - {x: 50.48721, y: 90.99654}
+        - {x: 34.48721, y: 110.9965}
+        - {x: 19.48722, y: 106.9965}
+        - {x: 13.48722, y: 99.99653}
+        - {x: 10.48722, y: 95.99654}
+        - {x: 7.487217, y: 89.99654}
+        - {x: 7.487217, y: 66.99654}
+        - {x: -15.51278, y: 81.99654}
+        - {x: -45.51278, y: 117.9965}
+        - {x: -61.51278, y: 117.9965}
+        - {x: -61.51278, y: 101.9965}
+        - {x: -48.51278, y: 100.9965}
+        - {x: -24.51278, y: 66.99654}
+        - {x: 2.487217, y: 50.99653}
+        - {x: 4.487217, y: -27.00346}
+        - {x: 6.487216, y: -116.0035}
+        - {x: 11.48722, y: -118.0035}
+        - {x: 19.48722, y: -118.0035}
+        - {x: 20.48722, y: -115.0035}
+        - {x: 22.48722, y: -33.00346}
+        - {x: 29.48722, y: -45.00346}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9318248dc90afd84dac9ca3ad5c8adc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
